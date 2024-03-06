@@ -1,6 +1,6 @@
 <img src="project_logo.png" align="left" width="180px"/>
 
-# KubeJS - Alchemsitry
+# KubeJS - Alchemistry
 
 [![License](https://img.shields.io/github/license/Ender-Development/KubeJS-Alchemistry.svg?label=License)](LICENSE)
 [![Versions](https://img.shields.io/curseforge/game-versions/936489?logo=curseforge&label=Game%20Version)](https://www.curseforge.com/minecraft/mc-mods/kubejs-alchemistry)
