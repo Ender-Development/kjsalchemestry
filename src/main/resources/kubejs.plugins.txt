@@ -1,0 +1,1 @@
+io.klebe.kjsalchemestry.KubeJSAlchemestryPlugin
