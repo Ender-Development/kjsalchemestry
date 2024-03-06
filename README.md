@@ -9,11 +9,11 @@
 *An addon for KubeJS*
 • [CurseForge](https://curseforge.com/minecraft/mc-mods/kubejs-alchemistry)
 • [Changelog](CHANGELOG.md)
-• [Bugtracker](https://github.com/Ender-Development/kjsalchemestry/issues)
+• [Bugtracker](https://github.com/Ender-Development/kjsalchemistry/issues)
 
 <br />
 
-provides KubeJS integrations for [Alchemistry](https://www.curseforge.com/minecraft/mc-mods/alchemistry).
+This mod provides KubeJS integrations for [Alchemistry](https://www.curseforge.com/minecraft/mc-mods/alchemistry).
 
 ## Builds
 You can download the latest files here on [curseforge](https://curseforge.com/minecraft/mc-mods/kubejs-alchemistry).
@@ -28,7 +28,7 @@ You can contact us on our [Discord](https://discord.gg/JF7x2vG).
 
 ## Contributing
 Feel free to contribute to the project. We are always happy about pull requests.
-If you want to help us, you can find potential tasks in the [issue tracker](https://github.com/Ender-Development/kjsalchemestry/issues).
+If you want to help us, you can find potential tasks in the [issue tracker](https://github.com/Ender-Development/kjsalchemistry/issues).
 Of course, you can also create new issues if you find a bug or have a suggestion for a new feature.
 Should you have any questions, feel free to ask us on [Discord](https://discord.gg/JF7x2vG).
 
