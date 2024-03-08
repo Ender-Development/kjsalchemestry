@@ -214,6 +214,17 @@ dependencies {
 
     runtimeOnly fg.deobf("curse.maven:kubejs-offline-641627:4738586")
     runtimeOnly fg.deobf("curse.maven:probejs-585406:5054324")
+    runtimeOnly fg.deobf("curse.maven:cloth-config-348521:4973441")
+    runtimeOnly fg.deobf("curse.maven:roughly-enough-items-310111:4951142")
+    runtimeOnly fg.deobf("curse.maven:roughly-enough-items-hacks-521393:4837449")
+    runtimeOnly fg.deobf("curse.maven:configured-457570:5101367")
+
+    // Performance mods
+    runtimeOnly fg.deobf("curse.maven:embeddium-908741:5142143")
+    runtimeOnly fg.deobf("curse.maven:ferritecore-429235:4810975")
+    runtimeOnly fg.deobf("curse.maven:modernfix-790626:5157670")
+    runtimeOnly fg.deobf("curse.maven:textrues-embeddium-options-910506:5083995")
+    runtimeOnly fg.deobf("curse.maven:magnesium-extras-558905:5090254")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
