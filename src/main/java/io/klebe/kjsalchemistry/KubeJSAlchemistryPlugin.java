@@ -1,4 +1,4 @@
-package io.klebe.kjsalchemestry;
+package io.klebe.kjsalchemistry;
 
 import com.smashingmods.alchemistry.Alchemistry;
 import dev.latvian.mods.kubejs.KubeJSPlugin;
@@ -12,9 +12,8 @@ import dev.latvian.mods.kubejs.recipe.schema.RegisterRecipeSchemasEvent;
 
 import static com.smashingmods.alchemistry.registry.RecipeRegistry.DISSOLVER_TYPE;
 
-//io.klebe.kjsalchemestry.KubeJSAlchemestryPlugin
-public class KubeJSAlchemestryPlugin extends KubeJSPlugin {
-    public static EventGroup GROUP = EventGroup.of("AlchemestryEvents");
+public class KubeJSAlchemistryPlugin extends KubeJSPlugin {
+    public static EventGroup GROUP = EventGroup.of("AlchemistryEvents");
 
     @Override
     public void registerEvents() {
